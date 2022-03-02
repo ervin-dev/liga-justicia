@@ -11,4 +11,4 @@ Este es un mensaje desde GitHub
 
 ### Estamos editando este archivo
 
-### Estos cambios son nuevos
+### Estos cambios son nuevos desde el respositorio local
